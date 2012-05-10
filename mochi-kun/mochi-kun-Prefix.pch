@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'mochi-kun' target in the 'mochi-kun' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
