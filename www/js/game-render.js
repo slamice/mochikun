@@ -1,0 +1,1 @@
+// Game loop and bind dom events (touch, click, etc...)
