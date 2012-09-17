@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>www/js/game-algo.js</string>
+	<string>www/js/game-logic.js</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -32,11 +32,9 @@
 			<key>filename</key>
 			<string>www/index.html</string>
 			<key>lastUsed</key>
-			<date>2012-07-16T14:31:50Z</date>
+			<date>2012-09-15T02:59:30Z</date>
 		</dict>
 		<dict>
-			<key>expanded</key>
-			<true/>
 			<key>name</key>
 			<string>js</string>
 			<key>regexFolderFilter</key>
@@ -48,13 +46,13 @@
 			<key>filename</key>
 			<string>www/main.html</string>
 			<key>lastUsed</key>
-			<date>2012-08-25T17:28:40Z</date>
+			<date>2012-09-15T02:59:32Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
 			<string>www/menu.html</string>
 			<key>lastUsed</key>
-			<date>2012-08-25T17:28:30Z</date>
+			<date>2012-09-15T03:11:59Z</date>
 		</dict>
 		<dict>
 			<key>filename</key>
@@ -65,6 +63,8 @@
 			<string>sound files</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>selected</key>
+			<true/>
 			<key>sourceDirectory</key>
 			<string>www/sound files</string>
 		</dict>
@@ -73,63 +73,33 @@
 	<integer>197</integer>
 	<key>metaData</key>
 	<dict>
-		<key>www/index.html</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>19</integer>
-				<key>line</key>
-				<integer>48</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>45</integer>
-		</dict>
 		<key>www/js/game-algo.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>34</integer>
+				<integer>42</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>27</integer>
+			<integer>34</integer>
 		</dict>
 		<key>www/js/game-logic.js</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>39</integer>
+				<integer>3</integer>
 				<key>line</key>
-				<integer>100</integer>
+				<integer>92</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>90</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>27</integer>
-				<key>line</key>
-				<integer>100</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>43</integer>
-				<key>line</key>
-				<integer>100</integer>
-			</dict>
+			<integer>78</integer>
 		</dict>
 		<key>www/js/game-render.js</key>
 		<dict>
@@ -145,9 +115,24 @@
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
+		<key>www/menu.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>5</integer>
+				<key>line</key>
+				<integer>19</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
+		<string>www/menu.html</string>
 		<string>www/js/game-logic.js</string>
 		<string>www/js/game-render.js</string>
 		<string>www/js/game-algo.js</string>
